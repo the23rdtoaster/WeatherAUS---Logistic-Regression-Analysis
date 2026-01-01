@@ -23,9 +23,7 @@ This project demonstrates a complete machine learning pipeline for binary classi
 
 ### **Technical Stack**
 
-* **Data Handling:** `Pandas`, `NumPy`
-* **Machine Learning:** `Scikit-Learn`
-* **Visualization:** `Matplotlib`, `Seaborn`
+*  `Pandas`, `NumPy`, `Scikit-Learn`,`Matplotlib`, `Seaborn`
 
 ### **How to Use**
 
