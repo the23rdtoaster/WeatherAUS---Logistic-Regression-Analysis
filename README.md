@@ -1,11 +1,6 @@
-# WeatherAUS---Logistic-Regression-Analysis
+## **Weather Prediction: Logistic Regression Analysis**
+
 A beginner friendly Logistic Regression Analysis of the WeathAUS dataset for anyone looking to familiarize with imputing, scaling, pipelining, and visual analysis. 
-This is a comprehensive description tailored for a GitHub repository, designed to highlight the structured machine learning workflow you've implemented.
-
----
-
-## **Weather Prediction: Beginner Logistic Regression Analysis**
-
 This project demonstrates a complete machine learning pipeline for binary classification. Using the **Rain in Australia** dataset, the script performs end-to-end data processing—from raw data ingestion and **Exploratory Data Analysis (EDA)** to building and evaluating a **Logistic Regression** model.
 
 ### **Project Highlights**
