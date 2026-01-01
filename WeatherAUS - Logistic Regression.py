@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt # hg
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
-df = pd.read_csv(r"D:\SNU Files\Data Science & Machine Learning\Assignments\weatherAUS.csv")
+df = pd.read_csv(r"<ENTER CSV FILE DIRECTORY AS A RAW STRING>")
 print("Data specifications: ",df.head(), df.info(),df.describe(),  sep="\n")
 print("\nNo. of NaN vlaue columns: ", df.isna().sum(), "\nIn total: ", df.isna().sum().sum())
 
@@ -145,3 +145,4 @@ else:
     
     
     
+
